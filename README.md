@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Elisangela Jesus
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
-🔭 Minha jornada no mundo da tecnologia começou com uma curiosidade genuína que rapidamente se transformou em paixão. Sou uma desenvolvedora full-stack dedicada e comprometida com a melhoria contínua. 
+🔭 ​Minha trajetória na tecnologia começou de forma prática durante minha experiência na área administrativa. Ao dominar Excel Avançado e VBA, desenvolvi macros e ferramentas de automação que otimizaram processos e despertaram meu interesse pela lógica de programação e pelo desenvolvimento de soluções eficientes.
+
+​Hoje, foco na construção de aplicações web modernas, aplicando conceitos de UI Design para criar interfaces responsivas e intuitivas com JavaScript, HTML e CSS. Minha formação em Sistemas de Informação me deu a base necessária para entender o ciclo de vida de um software e aplicar as melhores práticas de desenvolvimento.
 
 💻Desde então, permaneço profundamente apaixonada por programação e me esforço constantemente para aprender mais e me tornar uma profissional melhor a cada dia.
 
