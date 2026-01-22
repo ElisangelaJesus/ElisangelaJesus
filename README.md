@@ -7,6 +7,7 @@
 ​Hoje, foco na construção de aplicações web modernas, aplicando conceitos de UI Design para criar interfaces responsivas e intuitivas com JavaScript, HTML e CSS. Minha formação em Sistemas de Informação me deu a base necessária para entender o ciclo de vida de um software e aplicar as melhores práticas de desenvolvimento.
 
 💻Desde então, permaneço profundamente apaixonada por programação e me esforço constantemente para aprender mais e me tornar uma profissional melhor a cada dia.
+[![Currículo](https://img.shields.io/badge/Currículo-Ver%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]https://drive.google.com/file/d/1u6lX-MjzReq4_RdmzGJRtWqrfSypgQ1-/view?usp=drivesdk
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elisangela-jesus-8a9a00116"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
