@@ -9,7 +9,7 @@
 💻Desde então, permaneço profundamente apaixonada por programação e me esforço constantemente para aprender mais e me tornar uma profissional melhor a cada dia.
 
 
-[![Currículo](https://img.shields.io/badge/Currículo-Ver%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]https://drive.google.com/file/d/1u6lX-MjzReq4_RdmzGJRtWqrfSypgQ1-/view?usp=drivesdk
+[![Currículo](https://img.shields.io/badge/Currículo-Ver%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1u6lX-MjzReq4_RdmzGJRtWqrfSypgQ1-/view?usp=drivesdk)
 
 
 <p align="center">
