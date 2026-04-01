@@ -146,7 +146,6 @@ Meu projeto aplicando conceitos de Back-end junto com Front-end. Uma API integra
 
 <!-- FOOTER E DESPEDIDA -->
 
-
 <div align="center">
   <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="50">-->
    <img align="center" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="50">
