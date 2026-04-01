@@ -91,7 +91,17 @@
 <hr>
 
 <!-- ESTATÍSTICAS DO GITHUB (MANTIDO AS SUAS ORIGINAIS!) -->
-<h2 align="center">
+<hr>
+<p  align="center">
+ <img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/5fZ2QY1vicwbsWkFXd/giphy.gif" width="50px" alt="GitHub-Status"/>
+ </p>
+ <p align="center" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
+<hr>
+
+<!--<h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"> GitHub Stats
 </h2>
 
@@ -109,7 +119,7 @@
   />
 </p>
 
-<hr>
+<hr>-->
 
 <!-- SEÇÃO DE PROJETOS -->
 <h2 align="center">
