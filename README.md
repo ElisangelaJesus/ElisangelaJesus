@@ -37,7 +37,8 @@
 </h3>
 
 <!-- GATINHO FOFO NO LUGAR DO UNICÓRNIO -->
-<img align="right" width="200px" alt="Cute Bongo Cat" src="https://media.giphy.com/media/LmgXXU1t7A540lq55E/giphy.gif" />
+<!-- <img align="right" width="200px" alt="Cute Bongo Cat" src="https://media.giphy.com/media/LmgXXU1t7A540lq55E/giphy.gif" />-->
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <p align="left">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> <b>Eu amo:</b> Beber um bom café, ouvir música enquanto programo e explorar novas tecnologias.<br><br>
