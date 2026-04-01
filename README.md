@@ -40,10 +40,12 @@
 <img align="right" width="200px" alt="Cute Bongo Cat" src="https://media.giphy.com/media/LmgXXU1t7A540lq55E/giphy.gif" />
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> <b>Eu amo:</b> Beber um bom café, ouvir música enquanto programo e explorar novas tecnologias.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"> <b>Foco de estudo atual:</b> React.js avançado, Next.js, Node.js e Bancos de Dados.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"> <b>Busco:</b> Oportunidades para colaborar em projetos, evoluir minhas stacks e me conectar com a comunidade tech.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="25"> <b>Curiosidade:</b> Minha base em Sistemas de Informação me ajuda a entender todo o ciclo de vida do software.<br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="25"> <b>Eu amo:</b> Beber um bom café, ouvir música enquanto programo e explorar novas tecnologias.<br><br>
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"> <b>Foco de estudo atual:</b> React.js avançado, Next.js, Node.js e Bancos de Dados.<br><br>
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25"> <b>Busco:</b> Oportunidades para colaborar em projetos, evoluir minhas stacks e me conectar com a comunidade tech.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="25"> <b>Curiosidade:</b> Minha base em Sistemas de Informação me ajuda a entender todo o ciclo de vida do software.<br><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Headphones.png" width="25"> <b>Hobby:</b> Assistir boas séries, ler livros envolventes e testar lógicas novas de código.
 </p>
 
