@@ -139,7 +139,7 @@ Meu projeto aplicando conceitos de Back-end junto com Front-end. Uma API integra
 
 <div align="center">
   <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="50">-->
-   <img align="left" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="50">
+   <img align="center" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt="Star" width="50">
   <br>
   <b>Obrigada pela visita! Sinta-se à vontade para se conectar comigo através dos meus links lá no topo.</b>
   <br><br>
