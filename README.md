@@ -97,7 +97,7 @@
  <p align="center" >
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>   
 </p>
-
+<hr>
 
 <!--<h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"> GitHub Stats
