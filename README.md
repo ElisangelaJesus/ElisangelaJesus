@@ -129,7 +129,7 @@
 🔹 <strong><a href="#" target="_blank">Projeto Front-end (Substitua pelo Nome)</a></strong><br>
 Breve descrição do seu projeto (ex: Aplicação focada em acessibilidade e design responsivo criada com React e Tailwind).<br>
 <code>React</code> • <code>TailwindCSS</code> • <code>JavaScript</code>  
-🔗 <a href="#">Ver no GitHub</a> | 🚀 <a href="#">Acessar Deploy</a>
+🔗 <a href="#">Ver no GitHub</a> | 🚀 <a href="https://elisangelajesus.github.io/psicologa-arianne-fontes/">Acessar Deploy</a>
 
 <br><br>
 
